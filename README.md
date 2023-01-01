@@ -1,4 +1,4 @@
-# 基于tushare数据api接口
+# 基于tushare数据api接口 （infer文件）
 
 #### 介绍
 基于tushare行情数据预测，股票涨势
